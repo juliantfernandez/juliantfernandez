@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **juliant.fernandez0611@gmail.com**
 
-- ⚡ Fun fact **I'm a huge fan of ...**
+- ⚡ Fun fact **I'm a huge fan of videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
