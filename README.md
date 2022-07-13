@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Argentina🧉</h3>
 
 
-- 🌱 I’m currently learning *react.js, next.js, chakra ui*
+- 🌱 I’m currently learning **react.js, next.js, chakra ui**
 
 - 📫 How to reach me **juliant.fernandez0611@gmail.com**
 
