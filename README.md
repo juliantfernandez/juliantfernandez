@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Argentina🧉</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning react.js, next.js, chakra ui<br><br>💻 I'm Fullstack Dev & iOS Mobile Developer Student<br><br>📫 How to reach me juliant.fernandez0611@gmail.com<br><br>⚡ Fun fact I'm a huge fan of videogames
+🌱 I’m currently learning react.js, next.js, chakra ui<br><br>💻 I'm Fullstack Dev Student<br><br>📫 How to reach me juliant.fernandez0611@gmail.com<br><br>⚡ Fun fact I'm a huge fan of videogames
 
 
 ## 🌐 Socials:
